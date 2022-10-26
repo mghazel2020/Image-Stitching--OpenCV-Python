@@ -1,6 +1,6 @@
 # Image Stitching using OpenCV-Python
 
-  <img src="images\stitching_example.jpg" width="1000"/>
+  <img src="images/stitching_example.jpg" width="1000"/>
   
 ## 1. Objective
 
@@ -18,7 +18,7 @@ The most familiar use of image stitching is in the creation of panoramic photogr
 
 For illustration, we shall use the following 3 input images, which will be stitched together.
 
-<img src="images\The-3-input-images.png" width="1000"/>
+<img src="images/The-3-input-images.png" width="1000"/>
   
 ## 4.  Development
 
@@ -175,7 +175,7 @@ Execution time <span style="color:#308080; ">=</span> <span style="color:#008000
 
 * The generated panorama of the 3 output images is illustrated in the next figure.
 
-  <img src="images\Generated--Panorama.jpg" width="1000"/>
+  <img src="images/Generated--Panorama.jpg" width="1000"/>
   
   ### 4.5. Step 5: Display a successful execution message:
   
